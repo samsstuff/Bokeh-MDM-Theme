@@ -12,3 +12,10 @@ after it is installed select it
 close window and next you login it will show up.
 Enjoy.
 Sam
+
+![newscreenshot](https://cloud.githubusercontent.com/assets/19275499/15768494/5b994202-291f-11e6-8a6d-5419ef3e645c.png)
+
+
+Here is a video of it in action
+
+[area51 video: click to view it on youtube](https://www.youtube.com/watch?v=S8-Z18elm5g)
